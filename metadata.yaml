@@ -1,0 +1,37 @@
+_repo: Lucy-Maud-Montgomery-Short-Stories-1904_24875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - MacDonald, Lucy Maud Montgomery
+    - Montgomery, Lucy Maud
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Canadian'
+- !lcc 'PS'
+tableOfContents: A fortunate mistake -- An unpremeditated ceremony -- At the Bay Shore
+  Farm -- Elizabeth's child -- Freda's adopted grave -- How Don was saved -- Miss
+  Madeline's proposal -- Miss Sally's company -- Mrs. March's revenge -- Nan -- Natty
+  of Blue Point -- Penelope's party waist -- The girl and the wild race -- The promise
+  of Lucy Ellen -- The pursuit of the ideal -- The softening of Miss Cynthia -- Them
+  notorious pigs -- Why not ask Miss Price?
+title: Lucy Maud Montgomery Short Stories, 1904
+url: http://www.gutenberg.org/ebooks/24875
